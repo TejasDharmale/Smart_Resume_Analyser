@@ -3,4 +3,3 @@ google-generativeai
 python-dotenv
 pdf2image
 PyPDF2
-GOOGLE_API_KEY='AIzaSyBYunPIk0ifCBfoRDaglLPBQx8tb3U9oG0'
